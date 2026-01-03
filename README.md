@@ -15,15 +15,17 @@ I am currently walking the path of becoming a professional Software Engineer. My
 ---
 
 ### 📚 Current Progress (ProgrammingAdvices Roadmap)
-- **Algorithms Level 2:** [✅ Completed](./02_Patterns_Randomness_Security) (Modular Patterns, Security, Math)
+- **Algorithms Level 2 (Course 5):** [🏃‍♂️ In Progress](./02_Patterns_Randomness_Security) (Patterns, Security, Math)
 - **Algorithms Level 1:** [✅ Completed](https://github.com/Mohamed-Abdelrady-1/Algorithms-Problem-Solving-Level-1) (Basics, Loops, Arrays)
 - **Fundamentals Projects:** [✅ Completed](https://github.com/Mohamed-Abdelrady-1/CPP-Fundamentals-Projects) (ATM System, Grade Analyzer)
 
 ---
 
 ### 📊 GitHub Stats
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Abdelrady-1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Abdelrady-1&layout=compact&theme=radical)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Abdelrady-1&show_icons=true&theme=radical" alt="Mohamed's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Abdelrady-1&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
 <p align="center">
