@@ -23,18 +23,6 @@ I am currently walking the path of becoming a professional Software Engineer. My
 | **Fundamentals Projects** | [![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](https://github.com/Mohamed-Abdelrady-1/CPP-Fundamentals-Projects) | ATM System, Grade Analyzer |
 
 ---
-
-### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Abdelrady-1&show_icons=true&theme=radical&hide_border=true&count_private=true&v=1" alt="Mohamed's GitHub stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Abdelrady-1&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Langs" />
-</p>
-
----
 <p align="center">
   <i>"Clean code always looks like it was written by someone who cares."</i>
 </p>
