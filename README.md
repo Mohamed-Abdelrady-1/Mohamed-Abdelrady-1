@@ -15,7 +15,7 @@ I am currently walking the path of becoming a professional Software Engineer. My
 ---
 
 ### 📚 Current Progress (ProgrammingAdvices Roadmap)
-- **Algorithms Level 2 (Course 5):** [🏃‍♂️ In Progress](./02_Patterns_Randomness_Security) (Patterns, Security, Math)
+- **Algorithms Level 2 (Course 5):** [🏃‍♂️ In Progress](https://github.com/Mohamed-Abdelrady-1/Algorithms-Problem-Solving-Level-2) (Patterns, Security, Math)
 - **Algorithms Level 1:** [✅ Completed](https://github.com/Mohamed-Abdelrady-1/Algorithms-Problem-Solving-Level-1) (Basics, Loops, Arrays)
 - **Fundamentals Projects:** [✅ Completed](https://github.com/Mohamed-Abdelrady-1/CPP-Fundamentals-Projects) (ATM System, Grade Analyzer)
 
