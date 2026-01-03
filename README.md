@@ -6,7 +6,7 @@ I am currently walking the path of becoming a professional Software Engineer. My
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -14,7 +14,7 @@ I am currently walking the path of becoming a professional Software Engineer. My
 
 ---
 
-### 📚 Current Progress (ProgrammingAdvices Roadmap)
+### Current Progress (ProgrammingAdvices Roadmap)
 
 | Course / Level | Status | Focus Topics |
 | :--- | :--- | :--- |
@@ -24,14 +24,14 @@ I am currently walking the path of becoming a professional Software Engineer. My
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Abdelrady-1&theme=radical&hide_border=true" alt="Mohamed's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Abdelrady-1&show_icons=true&theme=radical&hide_border=true&count_private=true&v=1" alt="Mohamed's GitHub stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Abdelrady-1&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Abdelrady-1&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Langs" />
 </p>
 
 ---
