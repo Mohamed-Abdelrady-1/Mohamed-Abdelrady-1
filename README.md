@@ -1,9 +1,8 @@
 # Mohamed Abdelrady
 
-### C++ Developer | Problem Solver | Continuous Learner
+### C++ Software Engineer | Focused on Algorithms, Problem Solving & Clean Code
 
-I am currently walking the path of becoming a professional Software Engineer. My focus is on mastering **Data Structures**, **Algorithms**, and **Modular Programming** using C++.
-
+I am currently paving my way to becoming a professional Software Engineer. My current focus is on building a solid foundation in problem-solving, Algorithms, and Modular Programming using C++.
 ---
 
 ### Languages & Tools
