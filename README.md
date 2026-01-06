@@ -3,6 +3,7 @@
 ### C++ Software Engineer | Focused on Algorithms, Problem Solving & Clean Code
 
 I am currently paving my way to becoming a professional Software Engineer. My current focus is on building a solid foundation in problem-solving, Algorithms, and Modular Programming using C++.
+
 ---
 
 ### Languages & Tools
