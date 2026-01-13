@@ -18,7 +18,7 @@ I am currently paving my way to becoming a professional Software Engineer. My cu
 
 | Course / Level | Status | Focus Topics |
 | :--- | :--- | :--- |
-| **Algorithms & Problem-Solving Roadmap** | [![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square)](https://github.com/Mohamed-Abdelrady-1/Algorithms-And-Problem-Solving-Roadmap) | **Comprehensive Roadmap (C++ & C#)** <br> Covers Logic Building, Modular Programming, Algorithms, and Data Structures. |
+| **Algorithms & Problem-Solving Roadmap** | [![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square)](https://github.com/Mohamed-Abdelrady-1/Algorithms-And-Problem-Solving-Roadmap) | Covers Logic Building, Modular Programming, Algorithms, and Data Structures. |
 | **Fundamentals Projects** | [![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](https://github.com/Mohamed-Abdelrady-1/CPP-Fundamentals-Projects) | ATM System, Grade Analyzer, Math Tool, Advanced File Creator. |
 ---
 <p align="center">
