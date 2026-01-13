@@ -18,9 +18,8 @@ I am currently paving my way to becoming a professional Software Engineer. My cu
 
 | Course / Level | Status | Focus Topics |
 | :--- | :--- | :--- |
-| **Algorithms & Problem-Solving Roadmap** | [![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square)](https://github.com/Mohamed-Abdelrady-1/Algorithms-And-Problem-Solving-Roadmap) | **Levels 1 & 2 Completed** <br> (Logic, Modular Programming, MyLib, Math Algorithms) |
-| **Fundamentals Projects** | [![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](https://github.com/Mohamed-Abdelrady-1/CPP-Fundamentals-Projects) | ATM System, Grade Analyzer |
-
+| **Algorithms & Problem-Solving Roadmap** | [![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square)](https://github.com/Mohamed-Abdelrady-1/Algorithms-And-Problem-Solving-Roadmap) | **Comprehensive Roadmap (C++ & C#)** <br> Covers Logic Building, Modular Programming, Algorithms, and Data Structures. |
+| **Fundamentals Projects** | [![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](https://github.com/Mohamed-Abdelrady-1/CPP-Fundamentals-Projects) | **4 Capstone Projects:** <br> ATM System, Grade Analyzer, Math Tool, Advanced File Creator. |
 ---
 <p align="center">
   <i>"Clean code always looks like it was written by someone who cares."</i>
